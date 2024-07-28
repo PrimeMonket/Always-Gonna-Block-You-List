@@ -216,41 +216,6 @@
 ||music.amazon.com/playlist/*rick-astley$domain=music.amazon.com
 ||music.amazon.com/search/rick-astley$domain=music.amazon.com
 
-! Block Tidal content
-||tidal.com/artist/75921$domain=tidal.com
-||tidal.com/track/*rick-astley$domain=tidal.com
-||tidal.com/album/*rick-astley$domain=tidal.com
-||tidal.com/playlist/*rick-astley$domain=tidal.com
-||tidal.com/search/*rick-astley$domain=tidal.com
-
-! Block Bandcamp content
-||rickastley.bandcamp.com$domain=bandcamp.com
-||rickastley.bandcamp.com/album/*$domain=bandcamp.com
-||rickastley.bandcamp.com/music$domain=bandcamp.com
-
-! Block official website
-||rickastley.co.uk$domain=rickastley.co.uk
-||rickastley.co.uk/*$domain=rickastley.co.uk
-||rickastley.co.uk/shop$domain=rickastley.co.uk
-
-! Block related Wikipedia pages
-||en.wikipedia.org/wiki/Rick_Astley$domain=en.wikipedia.org
-||en.wikipedia.org/wiki/Rick_Astley_discography$domain=en.wikipedia.org
-||en.wikipedia.org/wiki/Rick_Astley_tours$domain=en.wikipedia.org
-
-! Block related news articles
-||news.google.com/search?q=Rick+Astley$domain=news.google.com
-||news.yahoo.com/search?p=Rick+Astley$domain=news.yahoo.com
-||bing.com/news/search?q=Rick+Astley$domain=bing.com
-||cnn.com/search?q=Rick+Astley$domain=cnn.com
-||bbc.com/search?q=Rick+Astley$domain=bbc.com
-||nytimes.com/search?query=Rick+Astley$domain=nytimes.com
-
-! Block related images
-||images.google.com/search?tbm=isch&q=Rick+Astley$domain=images.google.com
-||imgur.com/search?q=Rick+Astley$domain=imgur.com
-||flickr.com/search/?text=Rick+Astley$domain=flickr.com
-
 ! Block on social media platforms
 ||twitter.com/search?q=Rick+Astley$domain=twitter.com
 ||facebook.com/search/top?q=Rick%20Astley$domain=facebook.com
