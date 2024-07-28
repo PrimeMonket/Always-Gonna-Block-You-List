@@ -182,7 +182,7 @@
 ||youtube.com/watch?v=G8iEMVr7GFg$document
 
 ! Block Spotify content
-||open.spotify.com/artist/3rj6zRyyXeVEy6ZepByXjP$document 
+||open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt$document 
 ||open.spotify.com/track/*Rick+Astley$document 
 ||open.spotify.com/album/*Rick+Astley$document 
 ||open.spotify.com/playlist/*Rick+Astley$document 
