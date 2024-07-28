@@ -12,7 +12,7 @@ A comprehensive block list for uBlock Origin designed to keep you free from Rick
 2. **Import the List**:
    - Open uBlock Origin's dashboard.
    - Click on the "My filters" tab found along the top.
-   - Click on "Import" and paste the URL of this [Block List](https://github.com/PrimeMonket/Always-Gonna-Block-You-List/RickAstley-Blocker.txt).
+   - Click on "Import" and paste the URL of this [Block List](https://raw.githubusercontent.com/PrimeMonket/Always-Gonna-Block-You-List/main/RickAstley-Blocker.txt).
 3. **Enjoy a Rickroll-Free Experience**!
 
 ## Feedback & Contributions
