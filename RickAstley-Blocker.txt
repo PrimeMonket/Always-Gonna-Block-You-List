@@ -182,50 +182,50 @@
 ||youtube.com/watch?v=G8iEMVr7GFg$document
 
 ! Block Spotify content
-||spotify.com/artist/3rj6zRyyXeVEy6ZepByXjP$domain=spotify.com
-||spotify.com/track/*Rick+Astley$domain=spotify.com
-||spotify.com/album/*Rick+Astley$domain=spotify.com
-||spotify.com/playlist/*Rick+Astley$domain=spotify.com
-||spotify.com/search/track/Rick+Astley$domain=spotify.com
-||spotify.com/search/artist/Rick+Astley$domain=spotify.com
+||spotify.com/artist/3rj6zRyyXeVEy6ZepByXjP$document 
+||spotify.com/track/*Rick+Astley$document 
+||spotify.com/album/*Rick+Astley$document 
+||spotify.com/playlist/*Rick+Astley$document 
+||spotify.com/search/track/Rick+Astley$document 
+||spotify.com/search/artist/Rick+Astley$document 
 
 ! Block SoundCloud content
-||soundcloud.com/rickastley$domain=soundcloud.com
-||soundcloud.com/*/rick-astley$domain=soundcloud.com
-||soundcloud.com/*/rick-astley-extended$domain=soundcloud.com
-||soundcloud.com/*/rick-astley-live$domain=soundcloud.com
+||soundcloud.com/rickastley$document 
+||soundcloud.com/*/rick-astley$document 
+||soundcloud.com/*/rick-astley-extended$document 
+||soundcloud.com/*/rick-astley-live$document 
 
 ! Block Apple Music content
-||music.apple.com/artist/rick-astley/*$domain=music.apple.com
-||music.apple.com/album/*rick-astley$domain=music.apple.com
-||music.apple.com/playlist/*rick-astley$domain=music.apple.com
-||music.apple.com/curator/*rick-astley$domain=music.apple.com
-||music.apple.com/search?term=Rick+Astley$domain=music.apple.com
+||music.apple.com/artist/rick-astley/*$document 
+||music.apple.com/album/*rick-astley$document 
+||music.apple.com/playlist/*rick-astley$document 
+||music.apple.com/curator/*rick-astley$document 
+||music.apple.com/search?term=Rick+Astley$document 
 
 ! Block Deezer content
-||deezer.com/us/artist/218$domain=deezer.com
-||deezer.com/us/track/*rick-astley$domain=deezer.com
-||deezer.com/us/album/*rick-astley$domain=deezer.com
-||deezer.com/us/playlist/*rick-astley$domain=deezer.com
-||deezer.com/us/search/*rick-astley$domain=deezer.com
+||deezer.com/us/artist/218$document 
+||deezer.com/us/track/*rick-astley$document 
+||deezer.com/us/album/*rick-astley$document 
+||deezer.com/us/playlist/*rick-astley$document 
+||deezer.com/us/search/*rick-astley$document 
 
 ! Block Amazon Music content
-||music.amazon.com/artists/B001D7P9A8$domain=music.amazon.com
-||music.amazon.com/albums/B001D7P9A8$domain=music.amazon.com
-||music.amazon.com/song/B001D7P9A8$domain=music.amazon.com
-||music.amazon.com/playlist/*rick-astley$domain=music.amazon.com
-||music.amazon.com/search/rick-astley$domain=music.amazon.com
+||music.amazon.com/artists/B001D7P9A8$document 
+||music.amazon.com/albums/B001D7P9A8$document 
+||music.amazon.com/song/B001D7P9A8$document 
+||music.amazon.com/playlist/*rick-astley$document 
+||music.amazon.com/search/rick-astley$document 
 
 ! Block on social media platforms
-||twitter.com/search?q=Rick+Astley$domain=twitter.com
-||facebook.com/search/top?q=Rick%20Astley$domain=facebook.com
-||instagram.com/explore/tags/rickastley$domain=instagram.com
-||tiktok.com/tag/rickastley$domain=tiktok.com
-||reddit.com/r/*/search?q=Rick+Astley$domain=reddit.com
+||twitter.com/search?q=Rick+Astley$document 
+||facebook.com/search/top?q=Rick%20Astley$document=facebook.com
+||instagram.com/explore/tags/rickastley$document=instagram.com
+||tiktok.com/tag/rickastley$document=tiktok.com
+||reddit.com/r/*/search?q=Rick+Astley$document=reddit.com
 
 ! Block on streaming services
-||vimeo.com/search?q=Rick+Astley$domain=vimeo.com
-||dailymotion.com/search/Rick+Astley$domain=dailymotion.com
-||tunein.com/search/?query=Rick+Astley$domain=tunein.com
-||pandora.com/artist/rick-astley$domain=pandora.com
-||mixcloud.com/search/?q=Rick+Astley$domain=mixcloud.com
+||vimeo.com/search?q=Rick+Astley$document
+||dailymotion.com/search/Rick+Astley$document
+||tunein.com/search/?query=Rick+Astley$document
+||pandora.com/artist/rick-astley$document
+||mixcloud.com/search/?q=Rick+Astley$document
