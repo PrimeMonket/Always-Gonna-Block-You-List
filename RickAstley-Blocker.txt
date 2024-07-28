@@ -182,12 +182,12 @@
 ||youtube.com/watch?v=G8iEMVr7GFg$document
 
 ! Block Spotify content
-||spotify.com/artist/3rj6zRyyXeVEy6ZepByXjP$document 
-||spotify.com/track/*Rick+Astley$document 
-||spotify.com/album/*Rick+Astley$document 
-||spotify.com/playlist/*Rick+Astley$document 
-||spotify.com/search/track/Rick+Astley$document 
-||spotify.com/search/artist/Rick+Astley$document 
+||open.spotify.com/artist/3rj6zRyyXeVEy6ZepByXjP$document 
+||open.spotify.com/track/*Rick+Astley$document 
+||open.spotify.com/album/*Rick+Astley$document 
+||open.spotify.com/playlist/*Rick+Astley$document 
+||open.spotify.com/search/track/Rick+Astley$document 
+||open.spotify.com/search/artist/Rick+Astley$document 
 
 ! Block SoundCloud content
 ||soundcloud.com/rickastley$document 
@@ -218,10 +218,10 @@
 
 ! Block on social media platforms
 ||twitter.com/search?q=Rick+Astley$document 
-||facebook.com/search/top?q=Rick%20Astley$document=facebook.com
-||instagram.com/explore/tags/rickastley$document=instagram.com
-||tiktok.com/tag/rickastley$document=tiktok.com
-||reddit.com/r/*/search?q=Rick+Astley$document=reddit.com
+||facebook.com/search/top?q=Rick%20Astley$document
+||instagram.com/explore/tags/rickastley$document
+||tiktok.com/tag/rickastley$document
+||reddit.com/r/*/search?q=Rick+Astley$document
 
 ! Block on streaming services
 ||vimeo.com/search?q=Rick+Astley$document
