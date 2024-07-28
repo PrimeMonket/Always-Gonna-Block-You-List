@@ -1,6 +1,6 @@
 # Always-Gonna-Block-You-List
 
-A comprehensive block list for uBlock Origin designed to keep you free from Rick Astley and rickrolls. Ideal for those who are tired, sick and ill of the neverending endless loops of "Never Gonna Give You Up" and want to surf the web free of rick astley, avoiding the unexpected surprises from dodgy links sent by Friends or Family, Foe or Enemey.
+A comprehensive block list for uBlock Origin designed to keep you free from Rick Astley and rickrolls. Ideal for those who are tired, sick and ill of the neverending endless loops of "Never Gonna Give You Up" and just want to surf the web free of rick astley, avoiding the unexpected surprises from dodgy links sent by Friends or Family, Foe or Enemey.
 
 ## Features
 - Blocks all sources I know of Rick Astley content.
