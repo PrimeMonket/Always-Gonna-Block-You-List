@@ -15,7 +15,7 @@
 ||youtube.com/channel/UC8oD8eI_iDq7s7K7c3ZxD9g$document
 ||youtube.com/c/RickAstleyVEVO$document
 ||youtube.com/user/rickastleyVEVO$document
-||youtube.com/playlist?list=PLxE9WZz8uHwt6tWkz-Q__uMTu68k$document
+||https://www.youtube.com/playlist?list=PLlaN88a7y2_q16UdiTcsWnr0gFIcDMhHX$document
 
 ! Block Rick Roll's Youtube
 ||youtube.com/watch?v=lYBUbBu4W08$document
@@ -203,18 +203,17 @@
 ||music.apple.com/search?term=Rick+Astley$document 
 
 ! Block Deezer content
-||deezer.com/us/artist/218$document 
+||deezer.com/us/artist/6160$document 
 ||deezer.com/us/track/*rick-astley$document 
 ||deezer.com/us/album/*rick-astley$document 
 ||deezer.com/us/playlist/*rick-astley$document 
 ||deezer.com/us/search/*rick-astley$document 
 
 ! Block Amazon Music content
-||music.amazon.com/artists/B001D7P9A8$document 
-||music.amazon.com/albums/B001D7P9A8$document 
-||music.amazon.com/song/B001D7P9A8$document 
-||music.amazon.com/playlist/*rick-astley$document 
-||music.amazon.com/search/rick-astley$document 
+||music.amazon.com/artists/B001EE5TPM/rick-astley$document 
+||music.amazon.com/albums/B07X22XCSX$document 
+||music.amazon.com/albums/B07X22XCSX?trackAsin=B07X44HWMB$document  
+||music.amazon.com/search/rick-astley$document
 
 ! Block on social media platforms
 ||twitter.com/search?q=Rick+Astley$document 
