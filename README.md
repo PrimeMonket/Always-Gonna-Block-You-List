@@ -14,7 +14,7 @@ To combat this, I've proposed the "Always Going to Block You List" essentially a
 - Keeps your browsing experience free from Rick Astley and unwanted interruptions.
 
 ## How to Use
-1. **Install uBlock Origin**: Ensure [uBlock Origin](https://ublockorigin.com/) is installed in your browser.
+1. **Install uBlock Origin**: Ensure [uBlock Origin](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is installed in your browser.
 2. **Import the List**:
    - Open uBlock Origin's dashboard.
    - Click on the "Filters List" tab found along the top.
