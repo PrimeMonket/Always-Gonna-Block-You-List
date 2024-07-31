@@ -1,0 +1,222 @@
+# Title: Always-Gonna-Block-You-List
+# Last modified: 31/07/2024
+# Description: A comprehensive block list for uBlock Origin designed to keep you free from Rick Astley content and rickrolls. 
+#
+# License: https://github.com/PrimeMonket/Always-Gonna-Block-You-List-/blob/main/LICENSE
+# Author: https://github.com/PrimeMonket/
+#
+# GitHub issues: https://github.com/PrimeMonket/Always-Gonna-Block-You-List-/issues
+# GitHub pull requests: https://github.com/PrimeMonket/Always-Gonna-Block-You-List-/pulls
+
+# Block YouTube content
+0.0.0.0 youtube.com/watch?v=dQw4w9WgXcQ
+0.0.0.0 youtube.com/watch?v=Q5Oow6Ayvkk
+0.0.0.0 youtube.com/watch?v=3o4k4OBKSEI
+0.0.0.0 youtube.com/channel/UC8oD8eI_iDq7s7K7c3ZxD9g
+0.0.0.0 youtube.com/c/RickAstleyVEVO
+0.0.0.0 youtube.com/user/rickastleyVEVO
+0.0.0.0 https://www.youtube.com/playlist?list=PLlaN88a7y2_q16UdiTcsWnr0gFIcDMhHX
+
+# Block Rick Roll's Youtube
+0.0.0.0 youtube.com/watch?v=lYBUbBu4W08
+0.0.0.0 youtube.com/watch?v=oHg5SJYRHA0
+0.0.0.0 youtube.com/watch?v=H8ZH_mkfPUY
+0.0.0.0 youtube.com/watch?v=BBJa32lCaaY
+0.0.0.0 youtube.com/watch?v=BhM6hhlG9xM
+0.0.0.0 youtube.com/watch?v=tmY-G6sngk8
+0.0.0.0 youtube.com/watch?v=hB7CDrVnNCs
+0.0.0.0 youtube.com/watch?v=EE-xtCF3T94
+0.0.0.0 youtube.com/watch?v=cvh0nX08nRw
+0.0.0.0 youtube.com/watch?v=lXMskKTw3Bc
+0.0.0.0 youtube.com/watch?v=GBIIQ0kP15E
+0.0.0.0 youtube.com/watch?v=KyElxl_j4Wc
+0.0.0.0 youtube.com/watch?v=SjTOn5scRmY
+0.0.0.0 youtube.com/watch?v=JkcHqN6YswU
+0.0.0.0 youtube.com/watch?v=IO9XlQrEt2Y
+0.0.0.0 youtube.com/watch?v=lpiB2wMc49g
+0.0.0.0 youtube.com/watch?v=DIs7dtlMCP0
+0.0.0.0 youtube.com/watch?v=gvGyS5j9aFY
+0.0.0.0 youtube.com/watch?v=VgojnNgmgVs
+0.0.0.0 youtube.com/watch?v=wzSVOcgKq04
+0.0.0.0 youtube.com/watch?v=rAx5LIul1N8
+0.0.0.0 youtube.com/watch?v=ll-mQPDCn-U
+0.0.0.0 youtube.com/watch?v=hxCXEX2JOKE
+0.0.0.0 youtube.com/watch?v=6RyOsIseJbk
+0.0.0.0 youtube.com/watch?v=HUU3kOhjFfg
+0.0.0.0 youtube.com/watch?v=3KANI2dpXLw
+0.0.0.0 youtube.com/watch?v=rbsPu1z3ugQ
+0.0.0.0 youtube.com/watch?v=nW0P2hYBm9A
+0.0.0.0 youtube.com/watch?v=cH1NLToRz_o
+0.0.0.0 youtube.com/watch?v=j5a0jTc9S10
+0.0.0.0 youtube.com/watch?v=Uj1ykZWtPYI
+0.0.0.0 youtube.com/watch?v=E50L-JYWm3w
+0.0.0.0 youtube.com/watch?v=BjDebmqFRuc
+0.0.0.0 youtube.com/watch?v=PibwQR9nRus
+0.0.0.0 youtube.com/watch?v=rrs0B_LM898
+0.0.0.0 youtube.com/watch?v=s99hC5WUwjo
+0.0.0.0 youtube.com/watch?v=uK5WDo_3s7s
+0.0.0.0 youtube.com/watch?v=6mhmcwmgWbA
+0.0.0.0 youtube.com/watch?v=8O_ifyIIrN4
+0.0.0.0 youtube.com/watch?v=xvFZjo5PgG0
+0.0.0.0 youtube.com/watch?v=N3MKlU5_Gs0
+0.0.0.0 youtube.com/watch?v=AyOqGRjVtls
+0.0.0.0 youtube.com/watch?v=bCh5IlXTckA
+0.0.0.0 youtube.com/watch?v=ByqFY-Boq5Y
+0.0.0.0 youtube.com/watch?v=GHMjD0Lp5DY
+0.0.0.0 youtube.com/watch?v=bIwVIx5pp88
+0.0.0.0 youtube.com/watch?v=7z_1E8VGJOw
+0.0.0.0 youtube.com/watch?v=QhuZIEkKkXA
+0.0.0.0 youtube.com/watch?v=-51AfyMqnpI
+0.0.0.0 youtube.com/watch?v=cSAp9sBzPbc
+0.0.0.0 youtube.com/watch?v=8ybW48rKBME
+0.0.0.0 youtube.com/watch?v=HPk-VhRjNI8
+0.0.0.0 youtube.com/watch?v=pSxJqmMNU-A
+0.0.0.0 youtube.com/watch?v=nHRbZW097Uk
+0.0.0.0 youtube.com/watch?v=vkbQmH5MPME
+0.0.0.0 youtube.com/watch?v=SsiHLiXBlcM
+0.0.0.0 youtube.com/watch?v=Q53-mWHvxJo
+0.0.0.0 youtube.com/watch?v=7lEodsmjeQU
+0.0.0.0 youtube.com/watch?v=8leAAwMIigI
+0.0.0.0 youtube.com/watch?v=xaazUgEKuVA
+0.0.0.0 youtube.com/watch?v=dQw4w9WgXcQ
+0.0.0.0 youtube.com/watch?v=p7YXXieghto
+0.0.0.0 youtube.com/watch?v=qxeokP0n6V0
+0.0.0.0 youtube.com/watch?v=PzqQSOaCcnw
+0.0.0.0 youtube.com/watch?v=lXMskKTw3Bc
+0.0.0.0 youtube.com/watch?v=JzjldPdpT7Q
+0.0.0.0 youtube.com/watch?v=7B--1KArxow
+0.0.0.0 youtube.com/watch?v=lHyeAtiiL18
+0.0.0.0 youtube.com/watch?v=s0akG-V_Y30
+0.0.0.0 youtube.com/watch?v=HV8IxKtAlrA
+0.0.0.0 youtube.com/watch?v=6_b7RDuLwcI
+0.0.0.0 youtube.com/watch?v=rW7hXs-81hM
+0.0.0.0 youtube.com/watch?v=Oo0twK2ZbLU
+0.0.0.0 youtube.com/watch?v=0SoNH07Slj0
+0.0.0.0 youtube.com/watch?v=eBGIQ7ZuuiU
+0.0.0.0 youtube.com/watch?v=soq9cLVa5Xo
+0.0.0.0 youtube.com/watch?v=sO4wVSA9UPs
+0.0.0.0 youtube.com/watch?v=8mkofgRW1II
+0.0.0.0 youtube.com/watch?v=fMnIpIMuBJI
+0.0.0.0 youtube.com/watch?v=gPkZS92WCIo
+0.0.0.0 youtube.com/watch?v=_sWG4uhLiWo
+0.0.0.0 youtube.com/watch?v=8VFzHYtOARw
+0.0.0.0 youtube.com/watch?v=V-_O7nl0Ii0
+0.0.0.0 youtube.com/watch?v=eBsIpefmXvE
+0.0.0.0 youtube.com/watch?v=r8tXjJL3xcM
+0.0.0.0 youtube.com/watch?v=XB3EQrj1maw
+0.0.0.0 youtube.com/watch?v=RvBwypGUkPo
+0.0.0.0 youtube.com/watch?v=lpiB2wMc49g
+0.0.0.0 youtube.com/watch?v=TzXXHVhGXTQ
+0.0.0.0 youtube.com/watch?v=OYPG7j8rKZY
+0.0.0.0 youtube.com/watch?v=Kiz3PM387FI
+0.0.0.0 youtube.com/watch?v=2l51wyMM9hs
+0.0.0.0 youtube.com/watch?v=ptw2FLKXDQE
+0.0.0.0 youtube.com/watch?v=bkOVXdvijmQ
+0.0.0.0 youtube.com/watch?v=cqF6M25kqq4
+0.0.0.0 youtube.com/watch?v=cAN30xJp2Cs
+0.0.0.0 youtube.com/watch?v=doEqUhFiQS4
+0.0.0.0 youtube.com/watch?v=iiUIi5b9RlE
+0.0.0.0 youtube.com/watch?v=H8ZH_mkfPUY
+0.0.0.0 youtube.com/watch?v=INbRpclIFsE
+0.0.0.0 youtube.com/watch?v=ikFZLI4HLpQ
+0.0.0.0 youtube.com/watch?v=dPmZqsQNzGA
+0.0.0.0 youtube.com/watch?v=cjBHXvBYw5s
+0.0.0.0 youtube.com/watch?v=LLFhKaqnWwk
+0.0.0.0 youtube.com/watch?v=SpZ2FsEfwP4
+0.0.0.0 youtube.com/watch?v=SO4c1NlGCpY
+0.0.0.0 youtube.com/watch?v=MCjlo7PtXMQ
+0.0.0.0 youtube.com/watch?v=TCUPeAlpDVE
+0.0.0.0 youtube.com/watch?v=5wOXc03RwVA
+0.0.0.0 youtube.com/watch?v=E4ihJMQUmUQ
+0.0.0.0 youtube.com/watch?v=kczWpSN6emg
+0.0.0.0 youtube.com/watch?v=QdNEtVH9bZE
+0.0.0.0 youtube.com/watch?v=dRV6NaciZVk
+0.0.0.0 youtube.com/watch?v=ub82Xb1C8os
+0.0.0.0 youtube.com/watch?v=ENYalQvZG4Q
+0.0.0.0 youtube.com/watch?v=BXuxOeg6PiQ
+0.0.0.0 youtube.com/watch?v=0Z0i-nimHkU
+0.0.0.0 youtube.com/watch?v=Mdq6sQPKYqQ
+0.0.0.0 youtube.com/watch?v=C5GGeuFPVVE
+0.0.0.0 youtube.com/watch?v=rEtZzcxQ_pA
+0.0.0.0 youtube.com/watch?v=Yb6dZ1IFlKc
+0.0.0.0 youtube.com/watch?v=oJl25bABYac
+0.0.0.0 youtube.com/watch?v=a6pbjksYUHY
+0.0.0.0 youtube.com/watch?v=Dx5i1t0mN78
+0.0.0.0 youtube.com/watch?v=QB7ACr7pUuE
+0.0.0.0 youtube.com/watch?v=LjQZaD9EEJ0
+0.0.0.0 youtube.com/watch?v=cvh0nX08nRw
+0.0.0.0 youtube.com/watch?v=fZi4JxbTwPo
+0.0.0.0 youtube.com/watch?v=XfIIQYnBHrQ
+0.0.0.0 youtube.com/watch?v=LWErcuHm_C4
+0.0.0.0 youtube.com/watch?v=AACOcpA8i-U
+0.0.0.0 youtube.com/watch?v=Tt7bzxurJ1I
+0.0.0.0 youtube.com/watch?v=gidHrKbTpog
+0.0.0.0 youtube.com/watch?v=vcq30ywIKlc
+0.0.0.0 youtube.com/watch?v=y6120QOlsfU
+0.0.0.0 youtube.com/watch?v=6vBnqJhP7f8
+0.0.0.0 youtube.com/watch?v=xfr64zoBTAQ
+0.0.0.0 youtube.com/watch?v=EE-xtCF3T94
+0.0.0.0 youtube.com/watch?v=zL19uMsnpSU
+0.0.0.0 youtube.com/watch?v=mrThFRR3n8A
+0.0.0.0 youtube.com/watch?v=d4N5LnsNpF0
+0.0.0.0 youtube.com/watch?v=j8PxqgliIno
+0.0.0.0 youtube.com/watch?v=th0pH9srXRY
+0.0.0.0 youtube.com/watch?v=Gc2u6AFImn8
+0.0.0.0 youtube.com/watch?v=klqi_h9FElc
+0.0.0.0 youtube.com/watch?v=Eg7XtrH0duI
+0.0.0.0 youtube.com/watch?v=aaP6xIkMqzo
+0.0.0.0 youtube.com/watch?v=xbXoWRs2C8M
+0.0.0.0 youtube.com/watch?v=pKskW7wJ0v0
+0.0.0.0 youtube.com/watch?v=HnfkEVtetuE
+0.0.0.0 youtube.com/watch?v=9oxRDJjAQKI
+0.0.0.0 youtube.com/watch?v=j7gKwxRe7MQ
+0.0.0.0 youtube.com/watch?v=42OleX0HR4E
+0.0.0.0 youtube.com/watch?v=nrsnN23tmUA
+0.0.0.0 youtube.com/watch?v=iik25wqIuFo
+0.0.0.0 youtube.com/watch?v=E458nb_pPmk
+0.0.0.0 youtube.com/watch?v=06pBzAlItwI
+0.0.0.0 youtube.com/watch?v=rTgj1HxmUbg
+0.0.0.0 youtube.com/watch?v=epyRUp0BhrA
+0.0.0.0 youtube.com/watch?v=2ocykBzWDiM
+0.0.0.0 youtube.com/watch?v=H01BwSD9eyQ
+0.0.0.0 youtube.com/watch?v=G8iEMVr7GFg
+
+# Block Spotify content
+0.0.0.0 open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt  
+0.0.0.0 open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8
+0.0.0.0 open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6
+
+# Block SoundCloud content
+0.0.0.0 soundcloud.com/rick-astley-official
+0.0.0.0 soundcloud.com/rick-astley-official/never-gonna-give-you-up-4
+0.0.0.0 soundcloud.com/rick-astley-official/sets/whenever-you-need-somebody-2
+
+# Block Apple Music content
+0.0.0.0 music.apple.com/us/album/never-gonna-give-you-up/1559885420?i=1559885421
+0.0.0.0 music.apple.com/us/album/1624945511?i=1624945512
+0.0.0.0 music.apple.com/us/artist/rick-astley/669771
+
+# Block Deezer content
+0.0.0.0 deezer.com/us/artist/6160 
+0.0.0.0 deezer.page.link/Eb9dFEP2vJrfsgc8A
+0.0.0.0 deezer.com/us/album/115888392
+
+# Block Amazon Music content
+0.0.0.0 music.amazon.com/artists/B001EE5TPM/rick-astley 
+0.0.0.0 music.amazon.com/albums/B07X22XCSX 
+0.0.0.0 music.amazon.com/albums/B07X22XCSX?trackAsin=B07X44HWMB  
+0.0.0.0 music.amazon.com/search/rick-astley
+
+# Block on social media platforms
+0.0.0.0 twitter.com/search?q=Rick+Astley 
+0.0.0.0 facebook.com/search/top?q=Rick%20Astley
+0.0.0.0 instagram.com/explore/tags/rickastley
+0.0.0.0 tiktok.com/tag/rickastley
+0.0.0.0 reddit.com/r/search?q=Rick+Astley
+
+# Block on streaming services
+0.0.0.0 vimeo.com/search?q=Rick+Astley
+0.0.0.0 dailymotion.com/search/Rick+Astley
+0.0.0.0 tunein.com/search/?query=Rick+Astley
+0.0.0.0 pandora.com/artist/rick-astley
+0.0.0.0 mixcloud.com/search/?q=Rick+Astley
