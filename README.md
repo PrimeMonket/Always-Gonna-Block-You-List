@@ -13,12 +13,22 @@ To combat this, I've proposed the "Always Going to Block You List" essentially a
 - Prevents rickrolls from sketch links.
 - Keeps your browsing experience free from Rick Astley and unwanted interruptions.
 
-## How to Use
+## How to Install (uBlock Origin)
 1. **Install uBlock Origin**: Ensure [uBlock Origin](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is installed in your browser.
 2. **Import the List**:
    - Open uBlock Origin's dashboard.
    - Click on the "Filters List" tab found along the top.
-   - Scroll to the bottom and click on "Import" and paste the URL of this [Block List](https://raw.githubusercontent.com/PrimeMonket/Always-Gonna-Block-You-List/main/RickAstley-Blocker.txt).
+   - Scroll to the bottom and click on "Import" and paste the URL of this [Block List](https://raw.githubusercontent.com/PrimeMonket/Always-Gonna-Block-You-List/main/RickAstley-uBlockOrigin.txt).
+   - Dont forget to click apply.
+3. **Enjoy a Rickroll-Free Experience**!
+
+## How to Install (Pi-hole)
+1. **Install Pi-hole**: Docs and Downloads can be found at [Pi-hole](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+2. **Import the List**
+   - Open Pi-hole dashboard.
+   - Click on the "Settings" Tab found along the Left hand side Column.
+   - Click on the "BlockLists" Tab found along the top.
+   - Click in the BlockList Field found under the active BlockLists and past the URL of this [Block List](https://raw.githubusercontent.com/PrimeMonket/Always-Gonna-Block-You-List/main/RickAstley-Pi-hole.txt)
    - Dont forget to click apply.
 3. **Enjoy a Rickroll-Free Experience**!
 
