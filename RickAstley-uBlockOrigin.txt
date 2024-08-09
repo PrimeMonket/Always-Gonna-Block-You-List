@@ -180,6 +180,7 @@
 ||youtube.com/watch?v=2ocykBzWDiM$document
 ||youtube.com/watch?v=H01BwSD9eyQ$document
 ||youtube.com/watch?v=G8iEMVr7GFg$document
+||youtube.com/shorts/3DSkcmAEjH4$document
 
 ! Block Spotify content
 ||open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt$document
