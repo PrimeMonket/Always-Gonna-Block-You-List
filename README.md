@@ -22,16 +22,6 @@ To combat this, I've proposed the "Always Going to Block You List" essentially a
    - Dont forget to click apply.
 3. **Enjoy a Rickroll-Free Experience**!
 
-## How to Install (Pi-hole)
-1. **Install Pi-hole**: Docs and Downloads can be found at [Pi-hole](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-2. **Import the List**
-   - Open Pi-hole dashboard.
-   - Click on the "Settings" Tab found along the Left hand side Column.
-   - Click on the "BlockLists" Tab found along the top.
-   - Click in the BlockList Field found under the active BlockLists and past the URL of this [Block List](https://raw.githubusercontent.com/PrimeMonket/Always-Gonna-Block-You-List/main/RickAstley-Pi-hole.txt)
-   - Dont forget to click apply.
-3. **Enjoy a Rickroll-Free Experience**!
-
 ## Feedback & Contributions
 If you have suggestions or want to contribute to improving the list, feel free to open an [Issue](https://github.com/PrimeMonket/Always-Gonna-Block-You-List/issues) or a [Pull Request](https://github.com/PrimeMonket/Always-Gonna-Block-You-List/pulls) on the repository to remove Rick Astley from the internet.
 
